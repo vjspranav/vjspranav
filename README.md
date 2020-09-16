@@ -1,4 +1,13 @@
-### Hi there 👋
+# Hello There
+## I am [Pranav](https://researchweb.iiit.ac.in/~vjs.pranavasri)
+
+**Get in Touch**  
+[Mail Me](mailto:vjspranav@stag-os.org) [Telegram](https://t.me/vjspranav)
+
+__Currently Working on [StagOS](https://stag-os.org)__    
+
+
+![github stats](https://github-readme-stats.vercel.app/api?username=vjspranav&show_icons=true&theme=radical&count_private=true)
 
 <!--
 **vjspranav/vjspranav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
