@@ -7,8 +7,10 @@
 __Currently Working on [StagOS](https://stag-os.org)__    
 <a href="https://github.com/vjspranav/github-readme-stats">
   <img align="center" src="https://github-vjsreadme-stats-ltbdertew.vercel.app/api?username=vjspranav&show_icons=true&include_all_commits=true&theme=tokyonight" alt="My github stats" />
-</a>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vjspranav&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)
+</a>  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vjspranav&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vjspranav&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)  
 
 
 <!--
