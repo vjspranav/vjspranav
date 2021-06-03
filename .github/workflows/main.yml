@@ -15,15 +15,12 @@ jobs:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
           template: classic
-          user: vjspranav # Optional if you're the owner of target repository and you're using your own personal token
-          repo: vjspranav  # Repository name
           plugin_achievements: yes
           plugin_achievements_threshold: B       # Display achievements with rank B or higher
           plugin_achievements_secrets: yes       # Display unlocked secrets achievements
           plugin_achievements_ignored: octonaut  # Hide octonaut achievement
           plugin_achievements_limit: 0           # Display all unlocked achievement matching threshold and secrets params
           plugin_followup: yes
-          plugin_followup_sections: repositories, user #
           plugin_lines: yes
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year # Display full year instead of half year
