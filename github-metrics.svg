@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1870" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1850" class="">
     <defs>
         <style/>
     </defs>
@@ -1497,18 +1497,17 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 16 edited files from 11 commits over last 7 days
+            estimation from 13 edited files from 10 commits over last 7 days
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="212.41590214067278" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="212.41590214067278" y="0" width="114.64831804281346" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="327.0642201834862" y="0" width="110.77981651376147" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="437.84403669724765" y="0" width="11.103101791175186" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="448.94713848842287" y="0" width="11.052861511577108" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="282.9327902240326" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="282.9327902240326" y="0" width="147.5560081466395" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="430.4887983706721" y="0" width="14.7890602269421" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="445.2778585976142" y="0" width="14.722141402385802" height="8" fill="#427819"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1519,39 +1518,7 @@
                     </div>
                             <small>
                                 <div>4.23 kB</div>
-                                <div>46.18%</div>
-                            </small>
-                        </div>
-                        <div class="field language details">
-                            <div class="field">
-                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#b07219" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
-                      Java
-                    </div>
-                            <small>
-                                <div>2.21 kB</div>
-                                <div>24.08%</div>
-                            </small>
-                        </div>
-                        <div class="field language details">
-                            <div class="field">
-                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#427819" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
-                      Makefile
-                    </div>
-                            <small>
-                                <div>220 bytes</div>
-                                <div>2.4%</div>
-                            </small>
-                        </div>
-                    </section>
-                    <section>
-                        <div class="field language details">
-                            <div class="field">
-                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
-                      JavaScript
-                    </div>
-                            <small>
-                                <div>2.28 kB</div>
-                                <div>24.92%</div>
+                                <div>61.51%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1561,7 +1528,29 @@
                     </div>
                             <small>
                                 <div>221 bytes</div>
-                                <div>2.41%</div>
+                                <div>3.22%</div>
+                            </small>
+                        </div>
+                    </section>
+                    <section>
+                        <div class="field language details">
+                            <div class="field">
+                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#b07219" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                      Java
+                    </div>
+                            <small>
+                                <div>2.21 kB</div>
+                                <div>32.08%</div>
+                            </small>
+                        </div>
+                        <div class="field language details">
+                            <div class="field">
+                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#427819" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                      Makefile
+                    </div>
+                            <small>
+                                <div>220 bytes</div>
+                                <div>3.2%</div>
                             </small>
                         </div>
                     </section>
@@ -3705,7 +3694,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="8.084395663115172 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="8.087949111840448 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -4098,7 +4087,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated Mon, 21 Jun 2021 19:10:32  with lowlighter/metrics@3.10.0</span>
+                <span>Last updated Mon, 21 Jun 2021 20:10:46  with lowlighter/metrics@3.10.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
