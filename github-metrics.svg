@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1870" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1850" class="">
     <defs>
         <style/>
     </defs>
@@ -1497,16 +1497,15 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 117 edited files from 39 commits over last 7 days
+            estimation from 115 edited files from 37 commits over last 7 days
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="283.60698506206603" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="283.60698506206603" y="0" width="173.99284662318536" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="457.5998316852514" y="0" width="2.40016831474858" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="285.0945391480902" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="285.0945391480902" y="0" width="174.9054608519098" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1517,17 +1516,7 @@
                     </div>
                             <small>
                                 <div>14.6 kB</div>
-                                <div>61.65%</div>
-                            </small>
-                        </div>
-                        <div class="field language details">
-                            <div class="field">
-                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#427819" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
-                      Makefile
-                    </div>
-                            <small>
-                                <div>124 bytes</div>
-                                <div>0.52%</div>
+                                <div>61.98%</div>
                             </small>
                         </div>
                     </section>
@@ -1539,7 +1528,7 @@
                     </div>
                             <small>
                                 <div>8.99 kB</div>
-                                <div>37.82%</div>
+                                <div>38.02%</div>
                             </small>
                         </div>
                     </section>
@@ -3702,7 +3691,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="9.531752958587004 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="9.535269792395992 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -4095,7 +4084,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated Thu, 08 Jul 2021 20:10:14  with lowlighter/metrics@3.10.0</span>
+                <span>Last updated Thu, 08 Jul 2021 21:09:52  with lowlighter/metrics@3.10.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
