@@ -1396,14 +1396,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="427.59801846302616" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="427.59801846302616" y="0" width="16.291735534726193" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="443.88975399775234" y="0" width="6.814648629355321" height="8" fill="#6E4C13"/>
-                    <rect mask="url(#languages-bar)" x="450.7044026271077" y="0" width="4.618011114049678" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="455.3224137411574" y="0" width="1.868082647259919" height="8" fill="#438eff"/>
-                    <rect mask="url(#languages-bar)" x="457.1904963884173" y="0" width="1.6220060657524706" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="458.81250245416976" y="0" width="0.6313194466617498" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="459.4438219008315" y="0" width="0.5561780991684858" height="8" fill="#0298c3"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="433.9944284296895" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="433.9944284296895" y="0" width="11.994025767694133" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="445.98845419738365" y="0" width="6.571461800463992" height="8" fill="#6E4C13"/>
+                    <rect mask="url(#languages-bar)" x="452.5599159978476" y="0" width="3.3873469293455694" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="455.9472629271932" y="0" width="1.5088859556308243" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="457.45614888282404" y="0" width="1.3702530943912228" height="8" fill="#438eff"/>
+                    <rect mask="url(#languages-bar)" x="458.82640197721526" y="0" width="0.6184679096744857" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="459.4448698868897" y="0" width="0.555130113110297" height="8" fill="#0298c3"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1413,8 +1413,8 @@
                       C
                     </div>
                             <small>
-                                <div>1.99 GB</div>
-                                <div>92.96%</div>
+                                <div>2.75 GB</div>
+                                <div>94.35%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1423,18 +1423,18 @@
                       Assembly
                     </div>
                             <small>
-                                <div>31.6 MB</div>
-                                <div>1.48%</div>
+                                <div>41.6 MB</div>
+                                <div>1.43%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
-                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#438eff" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
-                      Objective-C
+                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#427819" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                      Makefile
                     </div>
                             <small>
-                                <div>8.68 MB</div>
-                                <div>0.41%</div>
+                                <div>9.56 MB</div>
+                                <div>0.33%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1443,8 +1443,8 @@
                       Shell
                     </div>
                             <small>
-                                <div>2.93 MB</div>
-                                <div>0.14%</div>
+                                <div>3.92 MB</div>
+                                <div>0.13%</div>
                             </small>
                         </div>
                     </section>
@@ -1455,8 +1455,8 @@
                       C++
                     </div>
                             <small>
-                                <div>75.7 MB</div>
-                                <div>3.54%</div>
+                                <div>76 MB</div>
+                                <div>2.61%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1466,17 +1466,17 @@
                     </div>
                             <small>
                                 <div>21.4 MB</div>
-                                <div>1%</div>
+                                <div>0.74%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
-                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#427819" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
-                      Makefile
+                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#438eff" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                      Objective-C
                     </div>
                             <small>
-                                <div>7.54 MB</div>
-                                <div>0.35%</div>
+                                <div>8.68 MB</div>
+                                <div>0.3%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1485,7 +1485,7 @@
                       Perl
                     </div>
                             <small>
-                                <div>2.59 MB</div>
+                                <div>3.52 MB</div>
                                 <div>0.12%</div>
                             </small>
                         </div>
@@ -3659,7 +3659,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="14.089956497019285 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="14.093815061199887 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -4052,7 +4052,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated Tue, 31 Aug 2021 12:13:50  with lowlighter/metrics@3.10.0</span>
+                <span>Last updated Tue, 31 Aug 2021 13:19:16  with lowlighter/metrics@3.10.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
