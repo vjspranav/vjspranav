@@ -34,3 +34,4 @@ jobs:
           plugin_languages_indepth: no                                  # Get indepth stats (see documentation before enabling)
           plugin_languages_recent_load: 500                             # Load up to 500 events to compute recently used stats
           plugin_languages_recent_days: 7                               # Limit recently used stats to last week
+          plugin_stargazers: yes
