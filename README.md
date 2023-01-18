@@ -8,7 +8,7 @@ __Currently Working on [StagOS](https://stag-os.org)__
 
 ## Stats
 <a href="https://github.com/vjspranav/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-vjspranav.vercel.app/api?username=vjspranav&show_icons=true&role=OWNER,COLLABORATOR&include_all_commits=true&count_private=true&theme=tokyonight" alt="My github stats" />
+  <img align="center" src="1https://github-readme-stats-vjspranav.vercel.app/api?username=vjspranav&show_icons=true&role=OWNER,COLLABORATOR&include_all_commits=true&count_private=true&theme=tokyonight" alt="My github stats" />
 </a>    
 
 ## Streak
