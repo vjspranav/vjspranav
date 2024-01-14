@@ -12,7 +12,7 @@ __Currently Working on [StagOS](https://stag-os.org)__
 </a>    
 
 ## Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vjspranav&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)    
+[![GitHub Streak](https://git-readme-streak.vercel.app/?user=vjspranav&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)    
 
 ## Metrics
 ![Metrics](https://github.com/vjspranav/vjspranav/blob/master/github-metrics.svg)    
